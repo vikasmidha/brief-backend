@@ -1,0 +1,4 @@
+-- BRIEF v2 comparison database schema
+-- PostgreSQL 14+
+-- The application also creates these tables automatically on startup.
+-- See db.js for the canonical schema and indexes.
